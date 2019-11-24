@@ -4,7 +4,8 @@ ISSID is a data set for ship detection, semantic segmentation, and instance segm
 
 ### Visualization results
 
-![image](https://github.com/chaozhong2010/ISSID/blob/master/data/P0094_0_800_3000_3800.png)  ![image](https://github.com/chaozhong2010/ISSID/blob/master/data/P0094_0_800_3000_3800_instance_color_RGB.png)
+![image](https://github.com/chaozhong2010/ISSID/blob/master/data/P0094_0_800_3000_3800.png, style="zoom:70%" /)  
+![image](https://github.com/chaozhong2010/ISSID/blob/master/data/P0094_0_800_3000_3800_instance_color_RGB.png)
 ![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_2.png)
 ![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_3.png)
 ![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_4.png)
