@@ -4,9 +4,9 @@ ISSID is a data set for ship detection, semantic segmentation, and instance segm
 
 ### Visualization results
 <div align="center">
-<img src="./data/P0094_0_800_3000_3800.png" height="300px" width="300px" alt="图片说明" >
-<img src="./data/P0094_0_800_3000_3800_instance_color_RGB.png" height="300px" width="300px" alt="图片说明" >
-<img src="./data/P0094_0_800_3000_3800_instance_id_RGB.png" height="300px" width="300px" alt="图片说明" >
+<img src="./data/P0094_0_800_3000_3800.png" height="250px" width="250px" alt="图片说明" >
+<img src="./data/P0094_0_800_3000_3800_instance_color_RGB.png" height="250px" width="250px" alt="图片说明" >
+<img src="./data/P0094_0_800_3000_3800_instance_id_RGB.png" height="250px" width="250px" alt="图片说明" >
 </div>
 ![image](https://github.com/chaozhong2010/ISSID/blob/master/data/P0094_0_800_3000_3800.png, style="zoom:70%" /)  
 ![image](https://github.com/chaozhong2010/ISSID/blob/master/data/P0094_0_800_3000_3800_instance_color_RGB.png)
