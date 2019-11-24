@@ -26,6 +26,6 @@ ISSID is a data set for ship detection, semantic segmentation, and instance segm
 
 ### Statistical results
 <div align="center">
-<img src="./bar_area of the bounding box.png" height="380px" width="500px" alt="图片说明" >
-<img src="./bar_aspect_ratio of the bounding box.png" height="380px" width="500px" alt="图片说明" >
+<img src="./bar_area of the bounding box.png" height="300px" width="400px" alt="图片说明" >
+<img src="./bar_aspect_ratio of the bounding box.png" height="300px" width="400px" alt="图片说明" >
 </div>
