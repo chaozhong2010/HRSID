@@ -33,6 +33,8 @@ High resolution sar images dataset (HRSID) is a data set for ship detection, sem
 
 HRSID dataset can be downloaded from URL: [Baidu cloud disk](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html)
 
+Due to the impact of the epidemic, the original image cannot be uploaded for the time being, and the compressed SAR image is now uploaded.
+
 ### Citation
 
 If you feel this dataset is useful, please cite as the following format.
