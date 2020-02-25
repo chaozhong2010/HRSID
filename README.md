@@ -23,6 +23,12 @@ High resolution sar images dataset (HRSID) is a data set for ship detection, sem
 <img src="./data/P0135_1800_2600_4800_5600_instance_id_RGB.png" height="250px" width="250px" alt="图片说明" >
 </div>
 
+
+### Statistical results
+<div align="center">
+<img src="./bar_area of the bounding box.png" height="300px" width="400px" alt="图片说明" >
+<img src="./bar_aspect_ratio of the bounding box.png" height="300px" width="400px" alt="图片说明" >
+</div>
 #### Dataset download link
 
 HRSID dataset can be downloaded from URL: [Baidu cloud disk](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html)
@@ -31,10 +37,4 @@ HRSID dataset can be downloaded from URL: [Baidu cloud disk](http://www.escience
 
 If you feel this dataset is useful, please cite as the following format.
 
-[1] Su H, Wei S, Yan M, et al. Object Detection and Instance Segmentation in Remote Sensing Imagery Based on Precise Mask R-CNN[C]. IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019: 1454-1457.
-
-### Statistical results
-<div align="center">
-<img src="./bar_area of the bounding box.png" height="300px" width="400px" alt="图片说明" >
-<img src="./bar_aspect_ratio of the bounding box.png" height="300px" width="400px" alt="图片说明" >
-</div>
+[1] Paper is being revised.
