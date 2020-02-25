@@ -35,6 +35,8 @@ HRSID dataset can be downloaded from URL: [Baidu cloud disk](http://www.escience
 
 Due to the impact of the epidemic, the original image cannot be uploaded for the time being, and the compressed SAR image is now uploaded.
 
+If you have any problem, please contact me by email：chaozhong2010@163.com
+
 ### Citation
 
 If you feel this dataset is useful, please cite as the following format.
