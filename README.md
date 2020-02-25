@@ -1,6 +1,6 @@
-# ISSID
-ISSID: instance segmentation in SAR images dataset
-ISSID is a data set for ship detection, semantic segmentation, and instance segmentation tasks in high-resolution SAR images. This dataset contains a total of 5498 high-resolution SAR images and 15136 ship instances. ISSID dataset draws on the construction process of the Microsoft Common Objects in Context (COCO) datasets, including SAR images with different resolutions, polarizations, sea conditions, sea areas, and coastal ports. This dataset is a benchmark for researchers to evaluate their approaches. For ISSID, the resolution of SAR images is as follows: 0.5m, 1 m, and 3 m. More importantly, we plan to release ISSID at https://github.com/chaozhong2010/ISSID in January.
+# HRSID
+HRSID: high resolution sar images dataset
+HRSID is a data set for ship detection, semantic segmentation, and instance segmentation tasks in high-resolution SAR images. This dataset contains a total of 5604 high-resolution SAR images and 15136 ship instances. ISSID dataset draws on the construction process of the Microsoft Common Objects in Context (COCO) datasets, including SAR images with different resolutions, polarizations, sea conditions, sea areas, and coastal ports. This dataset is a benchmark for researchers to evaluate their approaches. For HRSID, the resolution of SAR images is as follows: 0.5m, 1 m, and 3 m.
 
 ### Visualization results
 <div align="center">
