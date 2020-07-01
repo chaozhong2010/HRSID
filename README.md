@@ -42,4 +42,4 @@ If you have any problem, please contact me by email：chaozhong2010@163.com
 
 If you feel this dataset is useful, please cite as the following format.
 
-[1] Paper is being revised.
+[1] Shunjun Wei ; Xiangfeng Zeng ; Qizhe Qu ; Mou Wang ; Hao Su ; Jun Shi. HRSID: A High-Resolution SAR Images Dataset for Ship Detection and Instance Segmentation. IEEE Access
