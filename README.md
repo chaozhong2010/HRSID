@@ -48,9 +48,9 @@ HRSID can be downloaded from Baidu Cloud:
 The files can also be downloaded from URL:Baidu cloud. Extraction code: vxrs
 https://pan.baidu.com/s/1EitHYJ7tpGh0q9Qb3QA5SQ
 
+[ALOS-2 test image](https://drive.google.com/file/d/1uLcP4DkLyy9yIShSDBzuTC7uK6geRsan/view?usp=sharing).
 
-
-If you have any problem, please contact me by email：chaozhong2010@163.com
+If you have any problem, please contact me by email：chaozhong2010@163.com or zxf@std.uestc.edu.cn.
 
 ### Citation
 
